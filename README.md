@@ -91,10 +91,12 @@ Untuk mengirim perubahan pada local repository ke server gunakan perintah “git
 ![13](https://user-images.githubusercontent.com/115804283/196395876-109e11ae-4bca-4e63-80b5-11d78e067cd5.png)
 
 
-**Cara penggunaan git dengan perintah dasar git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.**
+#**Cara penggunaan git dengan perintah dasar git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.**
 
 
-Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/iki020904/latihangit1/edit/master/README.md . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah “ls -1" git_push
+Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/iki020904/latihangit1/edit/master/README.md . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah “ls -1" 
+![14](https://user-images.githubusercontent.com/115804283/196396611-4342faf3-6540-4af3-bb1b-82b6488854cc.png)
+
 
 Selesai Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
 
