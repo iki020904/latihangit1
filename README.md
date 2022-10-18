@@ -7,7 +7,8 @@ Screenshot (17) Download lah sesuai dengan bit (32 bit atau 64 bit)laptop anda a
 
 Lalu klik next simpan file lokasi instal di C:\ProgramFiles\Git(sesuai keinginan anda) , lalu di next saja semua sampai ke step install, TUNGGU SAMPAI SELESAI.
 
-image
+![git hub](https://user-images.githubusercontent.com/115804283/196316067-c350e428-a97b-4db1-b413-cb572b16ea2b.png)
+
 
 Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa melakukan proses atau belum jika muncul git version berarti sudah siap melakukan proses. Untuk mengetahui versinya ketikan perintah git --version. Saya memakai versi 2.38.0.windows.1
 
