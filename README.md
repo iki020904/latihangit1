@@ -56,6 +56,7 @@ Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LA
 ".
 
 **Cara penggunaan git dengan perintah daasar git init fungsi perintahnya untuk membuat repository local**
+
 Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT. File ini fungsinya untuk menyimpan semua perubahan pada working directory dan file ini terbentuknya hidden.
 
 ![screemshot8](https://user-images.githubusercontent.com/115804283/196392470-f135a7ed-b838-43d4-921c-c6e79412299e.png)
@@ -76,13 +77,23 @@ Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit 
 
 
 
-File berhasil tersimpan
+**File berhasil tersimpan**
 Langkah berikutnya kita kembali ke website GitHub untuk melihat repositori yang sudah dibuat. Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “git remote add origin [url] “ DAN PERINTAH GIT CLONE “ git clone [ url ] “_
-Cara penggunaan git dengan perintah dasar git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
-Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/iki020904/latihangit1/edit/master/README.md Screenshot (8-)
-Cara penggunaan git dengan perintah dasar git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository
+
+**Cara penggunaan git dengan perintah dasar git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)**
+
+Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/iki020904/latihangit1/edit/master/README.md ![12](https://user-images.githubusercontent.com/115804283/196395228-295e12c3-1f0e-44a8-b775-20fa4b52f722.png)
+
+**Cara penggunaan git dengan perintah dasar git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository**
+
 Untuk mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan usernam dan pasword gethub. git_push
-Cara penggunaan git dengan perintah dasar git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
+
+![13](https://user-images.githubusercontent.com/115804283/196395876-109e11ae-4bca-4e63-80b5-11d78e067cd5.png)
+
+
+**Cara penggunaan git dengan perintah dasar git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.**
+
+
 Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/iki020904/latihangit1/edit/master/README.md . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah “ls -1" git_push
 
 Selesai Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
