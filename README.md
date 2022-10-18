@@ -42,7 +42,8 @@ Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LA
 Cara penggunaan git dengan perintah daasar git init fungsi perintahnya untuk membuat repository local
 Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT. File ini fungsinya untuk menyimpan semua perubahan pada working directory dan file ini terbentuknya hidden.
 
-Screenshot (23)
+![download](https://user-images.githubusercontent.com/115804283/196315401-64cd517e-b21c-493e-ade7-82499027125b.jpg)
+
 
 Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#latihan1” >> README.md. Lalu untuk melihat file ketik perintah “ls
 
