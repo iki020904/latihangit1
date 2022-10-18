@@ -7,6 +7,7 @@ Pertama anda harus mendownload Aplikasi Git, buka website resminya Git di git-sc
  Download lah sesuai dengan bit (32 bit atau 64 bit)laptop anda agar support. Setelah selesai download klik instal
 
 Lalu klik next simpan file lokasi instal di C:\ProgramFiles\Git(sesuai keinginan anda) , lalu di next saja semua sampai ke step install, TUNGGU SAMPAI SELESAI.
+
 ![1](https://user-images.githubusercontent.com/115804283/196384510-5299a3a5-400a-43af-8c8a-cc2f41cf17dc.png)
 
 
