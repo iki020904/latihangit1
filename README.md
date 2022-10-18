@@ -25,7 +25,9 @@ Disini anda harus membuat akun git terlebih dahulu untuk membuat repository serv
 
 Pada langka selanjutnya anda boleh langsung diskip saja.
 
+
 **Membuat Repositor Baru**
+
 
 Ini adalah tampilan pertama setelah kalian selesai membuat akun git
 
@@ -41,6 +43,7 @@ Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
 
 
 **Membuat Repository Local**
+
 Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here . ![Screenshot5](https://user-images.githubusercontent.com/115804283/196390940-a4003b6c-8aed-4632-b93d-73e7625be28d.png)
 
 
@@ -49,12 +52,15 @@ Lalu kita akan menambahkan Config Global Repository pakai user name dan user ema
 ![Screenshot6](https://user-images.githubusercontent.com/115804283/196391226-6abfb950-a06a-4da4-a67e-40678daf1f57.png)
 
 
-Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman1Screenshot (22) ".
+Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman1 ![Screenshot7](https://user-images.githubusercontent.com/115804283/196391943-4a475aab-dc76-44d4-ba72-23dde4af99d0.png)
+".
 
 Cara penggunaan git dengan perintah daasar git init fungsi perintahnya untuk membuat repository local
 Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT. File ini fungsinya untuk menyimpan semua perubahan pada working directory dan file ini terbentuknya hidden.
 
-![download](https://user-images.githubusercontent.com/115804283/196315401-64cd517e-b21c-493e-ade7-82499027125b.jpg)
+![screemshot8](https://user-images.githubusercontent.com/115804283/196392470-f135a7ed-b838-43d4-921c-c6e79412299e.png)
+
+
 
 
 Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#latihan1” >> README.md. Lalu untuk melihat file ketik perintah “ls
