@@ -55,7 +55,7 @@ Lalu kita akan menambahkan Config Global Repository pakai user name dan user ema
 Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman1 ![Screenshot7](https://user-images.githubusercontent.com/115804283/196391943-4a475aab-dc76-44d4-ba72-23dde4af99d0.png)
 ".
 
-Cara penggunaan git dengan perintah daasar git init fungsi perintahnya untuk membuat repository local
+**Cara penggunaan git dengan perintah daasar git init fungsi perintahnya untuk membuat repository local**
 Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT. File ini fungsinya untuk menyimpan semua perubahan pada working directory dan file ini terbentuknya hidden.
 
 ![screemshot8](https://user-images.githubusercontent.com/115804283/196392470-f135a7ed-b838-43d4-921c-c6e79412299e.png)
@@ -65,12 +65,16 @@ Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT.
 
 Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#latihan1” >> README.md. Lalu untuk melihat file ketik perintah “ls
 
-Screenshot (24)
+![screenshot9](https://user-images.githubusercontent.com/115804283/196393086-a02f514a-c776-400a-8705-7d22503e4d8d.png)
 
-Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit
-Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status. Screenshot (26)
 
-Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit" 67557721-cadd1e80-f73f-11e9-8f44-dc52f8676eb3
+**Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit**
+Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status. ![sreenshot10](https://user-images.githubusercontent.com/115804283/196393795-6f27549d-552f-45be-a8e9-8672edb99254.png)
+
+
+Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit![screenshot11](https://user-images.githubusercontent.com/115804283/196394368-be1acdf7-4aed-4b24-b6cb-8445869a25a0.png)
+
+
 
 File berhasil tersimpan
 Langkah berikutnya kita kembali ke website GitHub untuk melihat repositori yang sudah dibuat. Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “git remote add origin [url] “ DAN PERINTAH GIT CLONE “ git clone [ url ] “_
