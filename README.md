@@ -1,14 +1,14 @@
 # lab_pemrograman
 Hallo nama saya Muhammad Rifqi aziz. Disini saya akan menjelaskan cara penggunaan Git yang kita perlukan aialah Applikasi git , akun git. Sebelum itu saya akan kasih tutorial cara penginstalan GIT.
 
-Cara penginstalan GIT
+**Cara penginstalan GIT**
 Pertama anda harus mendownload Aplikasi Git, buka website resminya Git di git-scm.com .
 ![git hub](https://user-images.githubusercontent.com/115804283/196384038-a1f9e84f-45d6-4ac0-8872-d88d21baa5d0.png)
  Download lah sesuai dengan bit (32 bit atau 64 bit)laptop anda agar support. Setelah selesai download klik instal
 
 Lalu klik next simpan file lokasi instal di C:\ProgramFiles\Git(sesuai keinginan anda) , lalu di next saja semua sampai ke step install, TUNGGU SAMPAI SELESAI.
+![1](https://user-images.githubusercontent.com/115804283/196384510-5299a3a5-400a-43af-8c8a-cc2f41cf17dc.png)
 
-![git hub](https://user-images.githubusercontent.com/115804283/196316067-c350e428-a97b-4db1-b413-cb572b16ea2b.png)
 
 
 Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa melakukan proses atau belum jika muncul git version berarti sudah siap melakukan proses. Untuk mengetahui versinya ketikan perintah git --version. Saya memakai versi 2.38.0.windows.1
