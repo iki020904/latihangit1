@@ -25,8 +25,8 @@ Disini anda harus membuat akun git terlebih dahulu untuk membuat repository serv
 
 Pada langka selanjutnya anda boleh langsung diskip saja.
 
-**Membuat repositori baru
-**
+**Membuat Repositor Baru**
+
 Ini adalah tampilan pertama setelah kalian selesai membuat akun git
 
 ![screenshot2](https://user-images.githubusercontent.com/115804283/196388731-def02551-be25-4d96-8115-b1cc006badc2.png)
@@ -37,7 +37,8 @@ Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat reposito
 
 
 Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
-Screenshot (18)
+![Screenshot4](https://user-images.githubusercontent.com/115804283/196390135-b996fd7a-4b84-4f97-bd86-d0ae5f87bfe4.png)
+
 
 Membuat Repository Local
 Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here . Screenshot (20)
