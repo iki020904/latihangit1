@@ -26,7 +26,7 @@ Disini anda harus membuat akun git terlebih dahulu untuk membuat repository serv
 Pada langka selanjutnya anda boleh langsung diskip saja.
 
 
-**Membuat Repositor Baru**
+#**Membuat Repositor Baru**
 
 
 Ini adalah tampilan pertama setelah kalian selesai membuat akun git
@@ -42,7 +42,7 @@ Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
 ![Screenshot4](https://user-images.githubusercontent.com/115804283/196390135-b996fd7a-4b84-4f97-bd86-d0ae5f87bfe4.png)
 
 
-**Membuat Repository Local**
+#**Membuat Repository Local**
 
 Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here . ![Screenshot5](https://user-images.githubusercontent.com/115804283/196390940-a4003b6c-8aed-4632-b93d-73e7625be28d.png)
 
@@ -55,7 +55,7 @@ Lalu kita akan menambahkan Config Global Repository pakai user name dan user ema
 Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman1 ![Screenshot7](https://user-images.githubusercontent.com/115804283/196391943-4a475aab-dc76-44d4-ba72-23dde4af99d0.png)
 ".
 
-**Cara penggunaan git dengan perintah daasar git init fungsi perintahnya untuk membuat repository local**
+#**Cara penggunaan git dengan perintah daasar git init fungsi perintahnya untuk membuat repository local**
 
 Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT. File ini fungsinya untuk menyimpan semua perubahan pada working directory dan file ini terbentuknya hidden.
 
@@ -69,7 +69,8 @@ Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#lat
 ![screenshot9](https://user-images.githubusercontent.com/115804283/196393086-a02f514a-c776-400a-8705-7d22503e4d8d.png)
 
 
-**Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit**
+#**Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit**
+
 Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status. ![sreenshot10](https://user-images.githubusercontent.com/115804283/196393795-6f27549d-552f-45be-a8e9-8672edb99254.png)
 
 
@@ -77,14 +78,14 @@ Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit 
 
 
 
-**File berhasil tersimpan**
+<!-- #**File berhasil tersimpan** -->
 Langkah berikutnya kita kembali ke website GitHub untuk melihat repositori yang sudah dibuat. Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “git remote add origin [url] “ DAN PERINTAH GIT CLONE “ git clone [ url ] “_
 
-**Cara penggunaan git dengan perintah dasar git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)**
+#**Cara penggunaan git dengan perintah dasar git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)**
 
 Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/iki020904/latihangit1/edit/master/README.md ![12](https://user-images.githubusercontent.com/115804283/196395228-295e12c3-1f0e-44a8-b775-20fa4b52f722.png)
 
-**Cara penggunaan git dengan perintah dasar git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository**
+#**Cara penggunaan git dengan perintah dasar git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository**
 
 Untuk mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan usernam dan pasword gethub. git_push
 
@@ -100,7 +101,8 @@ Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti 
 
 Selesai Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
 
-FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.
-Terimakasih
+**FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.
+**
+**Terimakasih******
 
 
