@@ -25,13 +25,16 @@ Disini anda harus membuat akun git terlebih dahulu untuk membuat repository serv
 
 Pada langka selanjutnya anda boleh langsung diskip saja.
 
-Membuat repositori baru
+**Membuat repositori baru
+**
 Ini adalah tampilan pertama setelah kalian selesai membuat akun git
 
-Screenshot (13)
+![screenshot2](https://user-images.githubusercontent.com/115804283/196388731-def02551-be25-4d96-8115-b1cc006badc2.png)
+
 
 Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat repositori baru, isi susuai inspirasi anda setelah selesai klik buat repositori.
-Screenshot (14)
+![screenshot3](https://user-images.githubusercontent.com/115804283/196389031-f038828a-a64e-404e-893e-8d9b3c7bdf1e.png)
+
 
 Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
 Screenshot (18)
