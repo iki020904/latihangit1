@@ -78,7 +78,9 @@ Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit 
 
 
 
-<!-- #**File berhasil tersimpan** -->
+
+#**File berhasil tersimpan**
+
 Langkah berikutnya kita kembali ke website GitHub untuk melihat repositori yang sudah dibuat. Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “git remote add origin [url] “ DAN PERINTAH GIT CLONE “ git clone [ url ] “_
 
 #**Cara penggunaan git dengan perintah dasar git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)**
@@ -103,6 +105,7 @@ Selesai Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
 
 **FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.
 **
-**Terimakasih******
+
+**Terimakasih***
 
 
